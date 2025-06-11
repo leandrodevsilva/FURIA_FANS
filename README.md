@@ -97,5 +97,5 @@ Contribuições são sempre bem-vindas! Se você deseja contribuir para o projet
 
 ## Licença
 
-Este projeto é licenciado sob a licença aberta.
+Este projeto é licenciado sob a licença MIT.
 
